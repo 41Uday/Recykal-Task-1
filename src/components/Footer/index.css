@@ -1,0 +1,86 @@
+.footer-container {
+    background-color: black;
+    height: 300px;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    display: flex;
+    flex-direction: row;
+}
+
+.footer-list-container {
+    list-style-type: none;
+    color: white;
+    margin-right: 150px;
+}
+
+.f-list-products {
+    font-weight: 500;
+    font-size: 28px;
+    margin-bottom: 25px;
+    font-family: "Poppins", Sans-serif;
+    line-height: 40px;
+}
+
+.f-list-items {
+    margin-bottom: 20px;
+    color: white;
+    font-size: 18px;
+}
+
+.f-list-para-1 {
+    color: white;
+    font-weight: 500;
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.f-list-para-3 {
+    color: white;
+    font-weight: 500;
+    font-size: 22px;
+}
+
+.f-span-1 {
+    padding-top: 10px;
+}
+
+.f-list-para-2 {
+    color: white;
+    font-weight: 500;
+    font-size: 22px;
+    margin-top: -10px;
+}
+
+.f-circle {
+    height: 45px;
+    width: 45px;
+    border-radius: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    margin-right: 7px;
+}
+
+.f-circle-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.f-last-container {
+    height: 60px;
+    background-color: #515151;
+    color: white;
+    padding-left: 300px;
+    padding-right: 300px;
+    display: flex;
+    align-items: center;
+}
+
+.f-last-para {
+    font-size: 18px;
+}
